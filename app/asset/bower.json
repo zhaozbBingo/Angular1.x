@@ -1,0 +1,29 @@
+{
+  "name": "zhaozb",
+  "homepage": "https://github.com/zhaozbBingo/Angular1.x",
+  "authors": [
+    "zhibin.zhao <525904821@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-resource":"1.6.1",
+    "angularAMD": "",
+    "angular-bootstrap": "",
+    "angular-ui-router": "0.4.2",
+    "jQuery": "2.2.4",
+    "angular-w5c-validator":"",
+    "sweetalert":"",
+    "angular-css":"1.0.8"
+  }
+}
